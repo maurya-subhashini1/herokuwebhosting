@@ -1,0 +1,24 @@
+{
+  "name": "jozbiz_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subhashini-maurya/Profile-Mongodb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subhashini-maurya/Profile-Mongodb/issues"
+  },
+  "homepage": "https://github.com/subhashini-maurya/Profile-Mongodb#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "validator": "^13.7.0"
+  }
+}
